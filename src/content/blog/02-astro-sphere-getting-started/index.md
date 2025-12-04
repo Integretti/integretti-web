@@ -29,9 +29,9 @@ export default defineConfig({
 // src/consts.ts
 
 export const SITE: Site = {
-  TITLE: "Astro Sphere",
+  TITLE: "Integretti",
   DESCRIPTION: "Welcome to Astro Sphere, a portfolio and blog for designers and developers.",
-  AUTHOR: "Mark Horn",
+  AUTHOR: "Integretti",
 }
 ```
 
